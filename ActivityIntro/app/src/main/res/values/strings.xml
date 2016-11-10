@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityIntro</string>
+    <string name="go_to_2nd_activity">Go to 2nd activity</string>
+    <string name="to_to_third_activity">To to third activity</string>
+    <string name="finish">Finish</string>
+    <string name="number_of_taps">Number of taps</string>
+    <string name="tap_me">Tap me</string>
+</resources>
